@@ -1,0 +1,28 @@
+.generic{
+	margin: 2rem;
+	color: #1d9c95;
+	text-shadow: 2px 2px black;
+
+}
+.feedbacks1{
+	margin: 0rem 9rem;
+}
+.feedback{
+	padding: 2rem;
+	justify-content: center;
+	align-items: center;
+	color: tomato;
+	text-shadow: 2px 2px black;
+}
+.first1{
+	font-family: fantasy;
+	color: #729a9a;
+}
+#submitting a{
+	color: white;
+}
+@media screen and (max-width: 1173px){
+	.feedbacks1{
+          margin: 0rem 2rem;
+	}
+} 	
